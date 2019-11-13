@@ -1,3 +1,9 @@
+### Changes by ALYF Consulting
+
+- Support for pip > v9.0.3
+
+---
+
 <div align="center">
     <img src=".github/logo.png" height="256">
     <h1>
